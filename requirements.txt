@@ -1,0 +1,10 @@
+streamlit
+groq
+pdfplumber
+python-docx
+python-pptx
+pillow
+pytesseract
+python-dotenv
+requests
+beautifulsoup4
